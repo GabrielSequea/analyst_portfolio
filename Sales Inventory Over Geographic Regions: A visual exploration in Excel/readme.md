@@ -36,7 +36,7 @@ This project presents a visual analysis of sales records across different geogra
 
 ## **Contact**
 
-If you have any questions or are interested in collaborating on future data analysis projects, feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/gabriel-sequea/).
+If you have any questions or are interested in collaborating on future data analysis projects, feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/gabriel-perez-sequea/).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ Este proyecto presenta un análisis visual de los registros de ventas en diferen
 
 ## **Contacto**
 
-Si tienes alguna pregunta o estás interesado en colaborar en futuros proyectos de análisis de datos, no dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/gabriel-sequea/).
+Si tienes alguna pregunta o estás interesado en colaborar en futuros proyectos de análisis de datos, no dudes en contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/gabriel-perez-sequea/).
